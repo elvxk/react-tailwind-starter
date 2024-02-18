@@ -36,9 +36,6 @@
 - 🎬 Preview
   ![demo](https://cdn.discordapp.com/attachments/446727299870621707/1208802441605283900/Desktop2024.02.18-22.42.12.04-ezgif.com-video-to-gif-converter_1.gif?ex=65e49c00&is=65d22700&hm=baaad2f0cc0e35764fef6466fd6e6e218fb15af46fb6badac47b99ee458f95e7&)
 
-<br/>
-<br/>
-
 ### ✨ Features
 
 - ⚡ Include Tailwindcss
@@ -47,16 +44,10 @@
 - 🌙 Include dark mode and switcher example
 - 🍧 Include react-icons package
 
-<br/>
-<br/>
-
 ### ⚡ Requirements
 
 - 🔰 npm
 - 🐱 Git
-
-<br/>
-<br/>
 
 ### 🚀 Installation
 
