@@ -14,13 +14,13 @@
 </div>
 <br/>
 <p align="center">
-  <a href="#demo"><samp>DEMO</samp></a>
+  <a href="#-demo"><samp>DEMO</samp></a>
   <samp> • </samp>
-  <a href="#features"><samp>FEATURES</samp></a>
+  <a href="#-features"><samp>FEATURES</samp></a>
   <samp> • </samp>
-    <a href="#requirements"><samp>REQUIREMENTS</samp></a>
+    <a href="#-requirements"><samp>REQUIREMENTS</samp></a>
   <samp> • </samp>
-    <a href="#installation"><samp>INSTALLATION</samp></a>
+    <a href="#-installation"><samp>INSTALLATION</samp></a>
 </p>
 <br/>
 
