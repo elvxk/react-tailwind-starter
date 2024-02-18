@@ -1,5 +1,5 @@
-import reactLogo from "../assets/react.svg";
-import tailwindLogo from "../assets/tailwindcss.svg";
+import reactLogo from "../../assets/react.svg";
+import tailwindLogo from "../../assets/tailwindcss.svg";
 import viteLogo from "/vite.svg";
 
 const Logo = () => {
