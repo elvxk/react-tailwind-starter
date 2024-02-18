@@ -28,7 +28,7 @@
 
 <br/>
 
-### 💻 Demo
+## 💻 Demo
 
 - 📷 Landing
   ![landing](https://cdn.discordapp.com/attachments/446727299870621707/1208802683633541141/ezgif.com-resize.png?ex=65e49c3a&is=65d2273a&hm=f10277d07be4866c7b37d36398cd3f75f1df954017c8529718bff568bd8a26e4&)
@@ -36,7 +36,7 @@
 - 🎬 Preview
   ![demo](https://cdn.discordapp.com/attachments/446727299870621707/1208802441605283900/Desktop2024.02.18-22.42.12.04-ezgif.com-video-to-gif-converter_1.gif?ex=65e49c00&is=65d22700&hm=baaad2f0cc0e35764fef6466fd6e6e218fb15af46fb6badac47b99ee458f95e7&)
 
-### ✨ Features
+## ✨ Features
 
 - ⚡ Include Tailwindcss
 - 🔤 Using Typescript
@@ -44,12 +44,12 @@
 - 🌙 Include dark mode and switcher example
 - 🍧 Include react-icons package
 
-### ⚡ Requirements
+## ⚡ Requirements
 
 - 🔰 npm
 - 🐱 Git
 
-### 🚀 Installation
+## 🚀 Installation
 
 - 📦 Use Template
   ![template](https://cdn.discordapp.com/attachments/446727299870621707/1208806814112546836/templateee.jpg?ex=65e4a013&is=65d22b13&hm=1146cc3d52f2ad74ca7ed1b8cff8ad35c582ab06b4fafdf4dfc27c60528db223&)
