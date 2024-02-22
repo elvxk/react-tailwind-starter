@@ -1,4 +1,3 @@
-<!-- stag -->
 <h3 align="center">
   <samp>&gt; <b>React + Tailwind Vite Template</b></samp>
 </h3>
