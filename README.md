@@ -52,7 +52,7 @@
 - 📦 Use Template
   <div align="center">
 
-  ![template](https://cdn.discordapp.com/attachments/446727299870621707/1208806814112546836/templateee.jpg?ex=65e4a013&is=65d22b13&hm=1146cc3d52f2ad74ca7ed1b8cff8ad35c582ab06b4fafdf4dfc27c60528db223&)
+  ![template](https://i.imgur.com/kmI9j0r.jpeg)
 
 </div>
 
