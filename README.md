@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![demo](https://cdn.discordapp.com/attachments/446727299870621707/1208802441605283900/Desktop2024.02.18-22.42.12.04-ezgif.com-video-to-gif-converter_1.gif?ex=65e49c00&is=65d22700&hm=baaad2f0cc0e35764fef6466fd6e6e218fb15af46fb6badac47b99ee458f95e7&)
+![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm11bmI0MDJhZTFlYnZ4enlvaHNicWEwOWhnNnFyYXhnZ3d5bXZvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O6ROI1cFaIg64Esc7F/giphy.gif)
 
 </div>
 
